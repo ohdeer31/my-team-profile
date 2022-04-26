@@ -1,0 +1,35 @@
+.display-4 {
+    text-align: center;
+    padding: 30px;
+}
+
+.dizCards {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    margin: 30px;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.cardName {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+li {
+    margin-left: -15px;
+}
+
+
+/* @media screen and (min-width: 698px) {
+
+    .dizCards {
+        display: flex;
+        justify-content: center;
+    }
+} */
